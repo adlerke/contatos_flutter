@@ -10,7 +10,7 @@ class SignUpButton extends StatelessWidget {
           top: 160
       ),
       onPressed: (){
-        launch('https://github.com/adlerke/flutter_projeto');
+        launch('https://github.com/adlerke/contatos_flutter');
 
       },
       child: Text(
@@ -21,7 +21,7 @@ class SignUpButton extends StatelessWidget {
 
             fontWeight: FontWeight.w300,
             color: Colors.white,
-            fontSize: 19,
+            fontSize: 17,
             letterSpacing: 0.5
         ),
       ),
